@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "rooted"
+version = "1.0.0"
+name = "Rooted"
+tagline = "Generate procedural trees with Geometry Nodes"
+maintainer = "plainprince"
+type = "add-on"
+
+tags = ["Geometry Nodes", "Add Mesh"]
+
+blender_version_min = "4.5.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
